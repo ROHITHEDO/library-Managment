@@ -1,0 +1,47 @@
+[
+    {
+        "BookId": 1,
+        "BookUrl": "https://static01.nyt.com/images/2022/06/15/books/14BOOKCALHOUN1/14BOOKCALHOUN1-videoLarge.png",
+        "BookName": "Book1",
+        "Genere": "fiction",
+        "Reviews": 3,
+        "Available Qty": 20,
+        "UnitPrice": 20
+    },
+    {
+        "BookId": 2,
+        "BookUrl": "https://static01.nyt.com/images/2022/06/15/books/14BOOKCALHOUN1/14BOOKCALHOUN1-videoLarge.png",
+        "BookName": "Book2",
+        "Genere": "fiction",
+        "Reviews": 4,
+        "Available Qty": 20,
+        "UnitPrice": 30
+    },
+    {
+        "BookId": 3,
+        "BookUrl": "https://static01.nyt.com/images/2022/06/15/books/14BOOKCALHOUN1/14BOOKCALHOUN1-videoLarge.png",
+        "BookName": "Book3",
+        "Genere": "fiction",
+        "Reviews": 5,
+        "Available Qty": 20,
+        "UnitPrice": 40
+    },
+    {
+        "BookId": 4,
+        "BookUrl": "https://static01.nyt.com/images/2022/06/15/books/14BOOKCALHOUN1/14BOOKCALHOUN1-videoLarge.png",
+        "BookName": "Book4",
+        "Genere": "fiction",
+        "Reviews": 5,
+        "Available Qty": 20,
+        "UnitPrice": 60
+    },
+    {
+        "BookId": 5,
+        "BookUrl": "https://static01.nyt.com/images/2022/06/15/books/14BOOKCALHOUN1/14BOOKCALHOUN1-videoLarge.png",
+        "BookName": "Book5",
+        "Genere": "fiction",
+        "Reviews": 5,
+        "Available Qty": 20,
+        "UnitPrice": 70
+    }
+]

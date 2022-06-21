@@ -1,0 +1,25 @@
+.card-holder{
+    width: 1500px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.card{
+    margin: 20px;
+}
+
+
+img{
+    height: 153px;
+}
+
+.card-body{
+    background-color: lightsteelblue;
+}
+select{
+    width:300px;
+}
+#alertalert{
+    display: none;
+}
